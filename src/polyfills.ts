@@ -56,7 +56,7 @@ import 'resize-observer-polyfill/dist/ResizeObserver.global';
 /***************************************************************************************************
  * Zone JS is required by default for Angular itself.
  */
-import 'zone.js/dist/zone';  // Included with Angular CLI.
+import 'zone.js';  // Included with Angular CLI.
 import 'zone.js/dist/webapis-media-query';
 import 'zone.js/dist/zone-patch-resize-observer';
 
